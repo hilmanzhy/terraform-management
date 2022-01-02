@@ -1,2 +1,2 @@
-# terraform_management
+# terraform-management
 wait for update script.
